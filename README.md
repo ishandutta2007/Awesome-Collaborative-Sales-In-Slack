@@ -1,38 +1,54 @@
-# Awesome-Collaborative-Sales-In-Slack
+# Awesome Collaborative Sales In Slack 🚀
 
-## Top Collaborative Sales In Slack Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Collaborative Sales In Slack Banner" width="100%" />
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Pipeline Management, Deal Collaboration & Sales Automation Inside Slack*  
-**Last updated: March 2026**
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Collaborative Sales in Slack**. These tools enable sales teams, SDRs, and revenue leaders to manage pipelines, update CRM records, receive deal alerts, and collaborate on opportunities without leaving Slack.
-
-**Open-source emphasis**: This section features active projects for self-hosting, custom Slack bot development, and open sales data pipelines — ideal for teams seeking transparent, vendor-independent sales collaboration.
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Sales-In-Slack/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Collaborative-Sales-In-Slack?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Sales-In-Slack/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Collaborative-Sales-In-Slack?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Sales-In-Slack/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Collaborative-Sales-In-Slack?color=green" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Sales-In-Slack/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Collaborative-Sales-In-Slack?color=blue" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 ---
 
-## Sector Overview & Market Dynamics
+## 🎯 Top Collaborative Sales In Slack Ecosystem
 
-The collaborative sales and revenue intelligence sector is estimated at **$3.8B–$4.0B in 2024–2025 and projected to surpass $10B+ by 2034**, driven by real-time conversational deal orchestration inside workspaces like Slack. The market is **moderately fragmented and consolidating rapidly**, transitioning from standalone workflow alert bots into a concentrated, high-tier competition dominated by CRM titans (Salesforce, HubSpot) and AI-first revenue orchestration platforms (Clari, Gong, Salesloft).
+> **A curated collection of SaaS platforms, AI sales agents, and open-source tools for pipeline management, deal collaboration, CRM bi-directional sync, and sales workflow automation directly inside Slack.**
+
+*Keywords: collaborative sales, slack crm, salesforce slack integration, hubspot slack, revenue intelligence, sales engagement, pipeline management, ai sales agents, revops automation, salesloft, gong, deal alerts, open-source crm.*
 
 ---
 
-## SaaS/Hosted Platforms
+## 📑 Table of Contents
 
-| Product | Company Size (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier Limits | Description |
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📈 Star History](#-star-history)
+- [💖 Support](#-support)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The collaborative sales and revenue intelligence sector is estimated at **$3.8B–$4.0B in 2024–2025 and projected to surpass $10B+ by 2034**, driven by real-time conversational deal orchestration inside workspaces like Slack. 
+
+The market is **moderately fragmented and consolidating rapidly**, transitioning from standalone workflow alert bots into a concentrated, high-tier competition dominated by CRM titans (Salesforce, HubSpot) and AI-first revenue orchestration platforms (Clari, Gong, Salesloft).
+
+---
+
+## ☁️ SaaS & Hosted Platforms
+
+| 🏢 Product | 📈 Company Size (Revenue / Valuation) | 💵 Pricing (Starting Tier) | 🎁 Free Tier Limits | 📝 Description |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Salesforce Slack Sales Elevate](https://www.salesforce.com/slack/)** | ~$38B Revenue / ~$290B Market Cap | $60 / user / month (requires Slack Business+ at $15/user/mo and Sales Cloud) | 30-day free trial (full Sales Cloud & Slack integration test environment) | Native Slack integration bringing Salesforce CRM data, deal alerts, and pipeline management directly into Slack. |
+| **[Salesforce Slack Sales Elevate](https://www.salesforce.com/slack/)** | ~$38B Revenue / ~$290B Market Cap | $60 / user / month (requires Slack Business+ at $15/user/mo and Sales Cloud) | 30-day free trial (full Sales Cloud & Slack integration test environment) | Native Slack integration bringing Salesforce CRM data, deal alerts, and pipeline management directly into Slack. Includes Agentforce Sales AI agents. |
 | **[HubSpot for Slack](https://www.hubspot.com/)** | ~$2.6B Revenue / ~$30B Market Cap | $15 / user / month (Sales Hub Starter, billed annually) | Free forever plan: capped at 2 users, 1,000 contacts, 1 deal pipeline, and 2,000 marketing emails/month | CRM notifications, deal updates, and contact management within Slack with lead capture and bidirectional sync. |
 | **[Gong for Slack](https://www.gong.io/)** | ~$250M+ ARR / ~$7.2B Valuation | $1,200–$1,400 / user / year (~$100–$120/mo per user) + base platform fee (~$5,000/yr) | No self-serve free trial; custom sandbox evaluation provided only via guided sales demo | Revenue intelligence platform with Slack integration for deal alerts, conversational call insights, and pipeline collaboration. |
 | **[Workbot for Slack](https://www.workato.com/)** | ~$150M+ ARR / ~$5.7B Valuation | $75 / month (Workato Pro credit tier; enterprise platform starts at ~$10,000/year) | Free community account: includes 100 free automation task credits, no time limit; enterprise trial requires sales-assisted sandbox | Workato's enterprise Slack bot enabling no-code automation and deal actions between Slack and 400+ CRM and ERP apps. |
@@ -45,11 +61,11 @@ The collaborative sales and revenue intelligence sector is estimated at **$3.8B�
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 Curated open-source projects, autonomous AI sales agents, extensible CRMs, and developer toolkits with Slack integrations, sorted by GitHub stars:
 
-| Repository | Stars | Description |
+| 📦 Repository | ⭐ Stars | 📝 Description |
 | :--- | :--- | :--- |
 | **[OpenClaw](https://github.com/openclaw/openclaw)** | [![Stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social&color=white)](https://github.com/openclaw/openclaw/stargazers) | Open-source AI gateway (MIT) connecting LLMs to Slack, WhatsApp, and Telegram with built-in memory and scheduling to build AI sales agents that monitor pipelines and dispatch deal alerts. |
 | **[n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Open-source workflow automation platform with extensive community templates for Slack + CRM bidirectional synchronization, natural language CRM queries, and pipeline stall detection. |
@@ -71,16 +87,34 @@ Curated open-source projects, autonomous AI sales agents, extensible CRMs, and d
 
 ---
 
-## How to Contribute
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Collaborative-Sales-In-Slack&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Collaborative-Sales-In-Slack&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you so much for exploring and supporting **Awesome Collaborative Sales In Slack**! 🙌
+
+If you find this repository valuable:
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork it** and contribute your favorite Slack sales workflows or tools.
+- 📢 **Share it** with fellow sales reps, RevOps professionals, and developer teams.
+- ☕ **Buy me a coffee / Sponsor**: If this project saved you time or helped your sales architecture, consider supporting ongoing curation via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing tabular and listing formats).
 3. Include: name, link, specific pricing details / GitHub repo, and star count badge.
 4. Submit PR with a short explanation.
 
-Star the repo if you find it useful!
+---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Sales data in Slack must comply with data protection regulations (GDPR, CCPA, etc.).
@@ -88,5 +122,7 @@ Star the repo if you find it useful!
 
 ---
 
-**Made for sales teams, SDRs, RevOps professionals, and developers building transparent sales collaboration solutions.**  
-Let's make collaborative sales in Slack more open, data-driven, and efficient.
+<p align="center">
+  <b>Made with ❤️ for sales teams, SDRs, RevOps professionals, and developers building transparent sales collaboration solutions.</b><br>
+  <i>Let's make collaborative sales in Slack more open, data-driven, and efficient!</i>
+</p>
