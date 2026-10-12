@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Sales-In-Slack/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Collaborative-Sales-In-Slack?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Sales-In-Slack/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Collaborative-Sales-In-Slack?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Sales-In-Slack/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Collaborative-Sales-In-Slack?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Sales-In-Slack/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Collaborative-Sales-In-Slack?color=green" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Sales-In-Slack/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Collaborative-Sales-In-Slack?color=blue" alt="License" /></a>
@@ -63,9 +63,9 @@ The market is **moderately fragmented and consolidating rapidly**, transitioning
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source projects, autonomous AI sales agents, extensible CRMs, and developer toolkits with Slack integrations, sorted by GitHub stars:
+Curated open-source projects, autonomous AI sales agents, extensible CRMs, and developer toolkits with Slack integrations, sorted by GitHub_Stars:
 
-| 📦 Repository | ⭐ Stars | 📝 Description |
+| 📦 Repository | ⭐ GitHub_Stars | 📝 Description |
 | :--- | :--- | :--- |
 | **[OpenClaw](https://github.com/openclaw/openclaw)** | [![Stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social&color=white)](https://github.com/openclaw/openclaw/stargazers) | Open-source AI gateway (MIT) connecting LLMs to Slack, WhatsApp, and Telegram with built-in memory and scheduling to build AI sales agents that monitor pipelines and dispatch deal alerts. |
 | **[n8n](https://github.com/n8n-io/n8n)** | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Open-source workflow automation platform with extensive community templates for Slack + CRM bidirectional synchronization, natural language CRM queries, and pipeline stall detection. |
@@ -109,7 +109,7 @@ If you find this repository valuable:
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing tabular and listing formats).
-3. Include: name, link, specific pricing details / GitHub repo, and star count badge.
+3. Include: name, link, specific pricing details / GitHub repo, and Stars_Count badge.
 4. Submit PR with a short explanation.
 
 ---
